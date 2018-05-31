@@ -1,0 +1,27 @@
+Script started on Thu 24 May 2018 04:38:32 AM UTC
+]0;root@master:/home/ec2-user[?1034h[root@master ec2-user]# whoami
+root
+]0;root@master:/home/ec2-user[root@master ec2-user]# uptime
+ 04:38:43 up 46 min,  2 users,  load average: 0.00, 0.01, 0.05
+]0;root@master:/home/ec2-user[root@master ec2-user]# runtime
+bash: runtime: command not found
+]0;root@master:/home/ec2-user[root@master ec2-user]# ps
+  PID TTY          TIME CMD
+ 1937 pts/1    00:00:00 bash
+ 1951 pts/1    00:00:00 ps
+]0;root@master:/home/ec2-user[root@master ec2-user]# ps -e[Kau
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root      1273  0.0  0.0 110088   376 ttyS0    Ss+  03:52   0:00 /sbin/agetty --
+root      1277  0.0  0.0 110088   376 tty1     Ss+  03:52   0:00 /sbin/agetty --
+ec2-user  1444  0.0  0.0 115436   672 pts/0    Ss   03:54   0:00 -bash
+root      1472  0.0  0.1 218508  1376 pts/0    S    03:55   0:00 sudo su
+root      1473  0.0  0.0 191884   960 pts/0    S    03:55   0:00 su
+root      1474  0.0  0.1 115576  1308 pts/0    S    03:55   0:00 bash
+root      1934  0.0  0.0 114188   824 pts/0    S+   04:38   0:00 script blah.sh
+root      1936  0.0  0.0 114192   384 pts/0    S+   04:38   0:00 script blah.sh
+root      1937  0.0  0.2 115576  2128 pts/1    Ss   04:38   0:00 bash -i
+root      1952  0.0  0.1 155324  1868 pts/1    R+   04:39   0:00 ps -au
+]0;root@master:/home/ec2-user[root@master ec2-user]# exit
+exit
+
+Script done on Thu 24 May 2018 04:39:14 AM UTC

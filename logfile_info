@@ -1,0 +1,91 @@
+Date and Time:---> 
+Wed May 30 05:19:41 UTC 2018
+
+ 05:19:42 up  1:24,  3 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user pts/0    14.140.116.135   03:57   46:54   0.06s  0.22s sshd: ec2-user [priv]
+ec2-user pts/1    14.140.116.135   04:46    6.00s  0.04s  0.18s sshd: ec2-user [priv]
+ec2-user pts/2    14.140.116.135   05:12    7:02   0.00s  0.00s -bash
+
+Uptime of the system:---> 
+ 05:19:42 up  1:24,  3 users,  load average: 0.00, 0.01, 0.05
+Date and Time:---> 
+Wed May 30 05:20:20 UTC 2018
+
+List of all logged-in users:---> 
+ 05:20:20 up  1:24,  3 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user pts/0    14.140.116.135   03:57   47:32   0.06s  0.22s sshd: ec2-user [priv]
+ec2-user pts/1    14.140.116.135   04:46    4.00s  0.03s  0.18s sshd: ec2-user [priv]
+ec2-user pts/2    14.140.116.135   05:12    7:40   0.00s  0.00s -bash
+
+Uptime of the system:---> 
+ 05:20:20 up  1:24,  3 users,  load average: 0.00, 0.01, 0.05
+Date and Time:---> 
+Wed May 30 05:20:53 UTC 2018
+
+List of all logged-in users:---> 
+ 05:20:53 up  1:25,  3 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user pts/0    14.140.116.135   03:57   48:05   0.06s  0.22s sshd: ec2-user [priv]
+ec2-user pts/1    14.140.116.135   04:46    5.00s  0.03s  0.18s sshd: ec2-user [priv]
+ec2-user pts/2    14.140.116.135   05:12    8:13   0.00s  0.00s -bash
+
+Uptime of the system:---> 
+ 05:20:53 up  1:25,  3 users,  load average: 0.00, 0.01, 0.05
+Date and Time:---> 
+Wed May 30 05:21:56 UTC 2018
+
+List of all logged-in users:---> 
+ 05:21:56 up  1:26,  3 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user pts/0    14.140.116.135   03:57   49:08   0.06s  0.22s sshd: ec2-user [priv]
+ec2-user pts/1    14.140.116.135   04:46    4.00s  0.03s  0.18s sshd: ec2-user [priv]
+ec2-user pts/2    14.140.116.135   05:12    9:16   0.00s  0.00s -bash
+
+Uptime of the system:---> 
+ 05:21:56 up  1:26,  3 users,  load average: 0.00, 0.01, 0.05
+*************************************************************************************
+Date and Time:---> 
+Wed May 30 05:22:24 UTC 2018
+
+List of all logged-in users:---> 
+ 05:22:24 up  1:26,  3 users,  load average: 0.07, 0.03, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user pts/0    14.140.116.135   03:57   49:36   0.06s  0.22s sshd: ec2-user [priv]
+ec2-user pts/1    14.140.116.135   04:46    0.00s  0.04s  0.18s sshd: ec2-user [priv]
+ec2-user pts/2    14.140.116.135   05:12    9:44   0.00s  0.00s -bash
+
+Uptime of the system:---> 
+ 05:22:24 up  1:26,  3 users,  load average: 0.07, 0.03, 0.05
+******************************************************
+
+Date and Time:---> 
+Wed May 30 05:40:49 UTC 2018
+
+
+Logged in users:---> 
+ 05:40:49 up  1:45,  2 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user pts/0    14.140.116.135   03:57    1:08m  0.06s  0.22s sshd: ec2-user [priv]
+ec2-user pts/1    14.140.116.135   04:46    1.00s  0.06s  0.18s sshd: ec2-user [priv]
+
+Uptime:---> 
+ 05:40:49 up  1:45,  2 users,  load average: 0.00, 0.01, 0.05
+
+******************************************************
+
+Date and Time:---> 
+Wed May 30 05:41:59 UTC 2018
+
+
+Logged in users:---> 
+ 05:41:59 up  1:46,  2 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user pts/0    14.140.116.135   03:57    1:09m  0.06s  0.22s sshd: ec2-user [priv]
+ec2-user pts/1    14.140.116.135   04:46    7.00s  0.05s  0.18s sshd: ec2-user [priv]
+
+Uptime:---> 
+ 05:41:59 up  1:46,  2 users,  load average: 0.00, 0.01, 0.05
+
+******************************************************
